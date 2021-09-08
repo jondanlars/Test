@@ -18,3 +18,5 @@ Double.MAX_VALUE + 1
 **note**
 
 Use *JSHELL* to experiment with java
+
+* made some changes after taking README to and from computer
